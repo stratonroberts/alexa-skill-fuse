@@ -1,0 +1,73 @@
+What you think people are going to see on your Web page may not be what they do see. It might depend on their background, knowledge, familiarity with what they are looking at, and expectations.
+You might be able to persuade people to see things in a certain way, depending on how they are presented.
+People use peripheral vision when they look at a computer screen, and usually decide what a page is about based on a quick glimpse of what is in their peripheral vision.
+Although the middle of the screen is important for central vision, don’t ignore what is in the viewers’ peripheral vision. Make sure the information in the periphery communicates clearly the purpose of the page and the site.
+If you want users to concentrate on a certain part of the screen, don’t put animation or blinking elements in their peripheral vision.
+Use patterns as much as possible, since people will automatically be looking for them. Use grouping and white space to create patterns.
+If you want people to recognize an object (for example, an icon), use a simple geometric drawing of the object. This will make it easier to recognize the underlying geons, and thus make the object easier and faster to recognize.
+Favor 2D elements over 3D ones. The eyes communicate what they see to the brain as a 2D object. 3D representations on the screen may actually slow down recognition and comprehension.
+People recognize and react to faces on Web pages faster than anything else on the page (at least by those who are not autistic).
+Faces looking right at people will have the greatest emotional impact on a Web page, probably because the eyes are the most important part of the face.
+If a face on a Web page looks at another spot or product on the page, people will also tend to look at that product. This doesn’t necessarily mean that they paid attention to it, just that they physically looked at it.
+People recognize a drawing or object faster and remember it better if it’s shown in the canonical perspective.
+If you have icons at your Web site or in your Web or software application, draw them from a canonical perspective.
+Put the most important information (or things you want people to focus on) in the top third of the screen or in the middle.
+Avoid putting anything important at the edges, since people tend not to look there.
+Design the screen or page so that people can move in their normal reading pattern. Avoid a pattern where people have to bounce back and forth to many parts of the screen to accomplish a task.
+Think about affordance cues when you design. By giving people cues about what they can do with a particular object, you make it more likely that they will take that action.
+Use shading to show when an object is chosen or active.
+Avoid providing incorrect affordance cues.
+Rethink hover cues if you’re designing for a device that uses touch rather than a pointing device.
+Don’t assume that people will see something on a computer screen just because it’s there. This is especially true when you refresh a screen and make one change on it. Users may not even realize they are even looking at a different screen.
+If you want to be sure that people notice a change in their visual fields, add additional visual cues (such as blinking) or auditory cues (such as a beep).
+Be cautious about how you interpret eye-tracking data. Don’t ascribe too much importance to it or use it as the main basis for design decisions.
+If you want items (pictures, photos, headings, or text) to be seen as belonging together, then put them in close proximity.
+Before you use lines or boxes to separate items or group them together, try experimenting with the amount of space between them first. Sometimes changing the spacing is sufficient, and you’ll be reducing the visual noise of the page.
+Put more space between items that don’t go together and less space between items that do. This sounds like common sense, but many Web page layouts ignore this idea.
+Avoid putting blue and red or green and red near each other on a page or screen.
+Avoid blue or green text on a red background, and red or green text on a blue background.
+Check your images and Web sites with a checker tool to see how they will look to someone who is color-blind.
+If you use color to imply a certain meaning (for example, items in green need immediate attention), use a redundant coding scheme (items in green and with a box around them need immediate attention).
+When designing color coding, consider colors that work for everyone, for example, varying shades of brown and yellow. Avoid red, green, and blue.
+Choose your colors carefully, taking into account the meaning that the colors may invoke.
+Pick a few major cultures or countries that you will be reaching with your design and check them on the cultural color tool to be sure you’re avoiding unintended color associations for that culture.
+People perceive all capitals as shouting, and they’re unused to reading them, so use all uppercase sparingly.
+Save all capital letters for headlines, and when you need to get someone’s attention, for example, before deleting an important file.
+People are active readers. What they understand and remember from what they read depends on their previous experience, their point of view while reading, and the instructions they are given beforehand.
+Don’t assume that people will remember specific information in what they read.
+Provide a meaningful title or headline. It’s one of the most important things you can do.
+Tailor the reading level of your text to your audience. Use simple words and fewer syllables to make your material accessible to a wider audience.
+Serif and sans serif fonts are equal in terms of readability.
+Unusual or overly decorative fonts can interfere with pattern recognition and slow down reading.
+If people have trouble reading the font, they will transfer that feeling of difficulty to the meaning of the text itself and decide that the subject of the text is hard to do or understand.
+Choose a point size that is large enough for people of various ages to read comfortably.
+Use a font with a large x-height for online viewing so that the type will appear to be larger.
+Use a large point size for text that will be read on a computer screen. This will help to minimize eye strain.
+Break text up into chunks. Use bullets, short paragraphs, and pictures.
+Provide ample contrast between foreground and background. Black text on a white background is the most readable.
+Make sure your content is worth reading. In the end, it all boils down to whether or not the text on the page is of interest to your audience.
+Line length presents a quandary: Do you give people the short line length and multiple columns that they prefer, or go against their own preference and intuition, knowing that they will read faster if you use a longer line length and a single column?
+Use a longer line length (100 characters per line) if reading speed is an issue.
+Use a shorter line length (45 to 72 characters per line) if reading speed is less critical.
+For a multipage article, consider using multiple columns and a short line length (45 characters per line).
+Don’t ask people to remember information from one place to another, such as reading letters or numbers on one page and then entering them on another page; if you do, they’ll probably forget the information and get frustrated.
+If you ask people to remember things in working memory, don’t ask them to do any- thing else until they’ve completed that task. Working memory is sensitive to interference – too much sensory input will prevent them from focusing attention.
+If you could limit the information you give people to four items, that would actually be a great idea, but you don’t have to be that drastic. You can use more pieces of information as long as you group and chunk.
+Include no more than four items in each chunk.
+Be aware that people tend to use external aids (notes, lists, calendars, appointment books) so they don’t have to rely on memory.
+If you want people to remember something, then you have to go over it again and again. Practice really does make perfect.
+One of the major reasons to do user or customer research is so that you can identify and understand the schemata that your particular target audience has.
+If people already have a schema that relates to information that you are providing, make sure you point out what that schema is. It will be easier for them to learn and remember the information if they can plug it into an existing schema.
+Eliminate memory load whenever possible. Many user interface design guidelines and interface features have evolved over the years to mitigate issues with human memory.
+Try not to require people to recall information. It’s much easier for them to recognize information than recall it from memory.
+Use concrete terms and icons. They will be easier to remember.
+Let people rest (and even sleep) if you want them to remember information.
+Try not to interrupt people if they are learning or encoding information.
+Information in the middle of a presentation will be the least likely to be remembered.
+If you’re testing or interviewing customers about a product, the words you use can affect greatly what people “remember.”
+Don’t rely on self-reports of past behavior. People will not remember accurately what they or others did or said.
+Take what people say after the fact – when they are remembering using your product, for instance, or remembering the experience of calling your customer service line – with a grain of salt.
+People are always going to forget.
+What people forget is not a conscious decision.
+Design with forgetting in mind. If some information is really important, don’t rely on people to remember it. Provide it for them in your design, or have a way for them to easily look it up.
+-________ ==== #26
