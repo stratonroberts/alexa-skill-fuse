@@ -70,4 +70,7 @@ Take what people say after the fact – when they are remembering using your pro
 People are always going to forget.
 What people forget is not a conscious decision.
 Design with forgetting in mind. If some information is really important, don’t rely on people to remember it. Provide it for them in your design, or have a way for them to easily look it up.
--________ ==== #26
+The only intuitive interface is the nipple. After that it's all learned.
+If it’s rude to say it in person, it’s rude to say it in copy.
+Anyone who stops learning is old.
+Remember to use standard design patterns. Beware of asking the user to learn new interaction concepts.

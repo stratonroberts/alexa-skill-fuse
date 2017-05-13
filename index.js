@@ -8,12 +8,12 @@ var fs = require('fs');
 
 //Replace with your app ID (OPTIONAL).  You can find this value at the top of your skill's page on http://developer.amazon.com.
 //Make sure to enclose your value in quotes, like this: var APP_ID = "amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1";
-var APP_ID = undefined;
+var APP_ID = "amzn1.ask.skill.200de49a-f86e-4a27-b5d4-cde0c7b3df13";
 
-var SKILL_NAME = "UX Facts";
+var SKILL_NAME = "FUSE - UX Design Tips";
 //var GET_FACT_MESSAGE = "Here's your UX fact: ";
 var GET_FACT_MESSAGE = "";
-var HELP_MESSAGE = "You can say tell me a UX fact, or, you can say exit... What can I help you with?";
+var HELP_MESSAGE = "You can say tell me a design tip, or, you can say exit... What can I help you with?";
 var HELP_REPROMPT = "What can I help you with?";
 var STOP_MESSAGE = "Goodbye!";
 
@@ -36,8 +36,7 @@ var STOP_MESSAGE = "Goodbye!";
 //     "The Moon is moving approximately 3.8 cm away from our planet every year."
 // ];
 
-var path = "./responses/uxfacts.txt";
-
+var path = "./responses/designtips.txt";
 var data = fs.readFileSync(path).toString().split('\n');
 
 //=========================================================================================================================================
@@ -52,9 +51,9 @@ exports.handler = function(event, context, callback) {
 
 var handlers = {
     'LaunchRequest': function () {
-        this.emit('GetNewFactIntent');
+        this.emit('GetNewTipIntent');
     },
-    'GetNewFactIntent': function () {
+    'GetNewTipIntent': function () {
         var factArr = data;
         var factIndex = Math.floor(Math.random() * factArr.length);
         var randomFact = factArr[factIndex];
