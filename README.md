@@ -1,4 +1,4 @@
-# FUSE - UX Design Tips - Alexa Skill
+# FUSE - UX Design Tips || Alexa Skill
 Hear random design tips with this Alexa Skill.
 
 ## Sources:
